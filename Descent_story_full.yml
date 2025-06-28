@@ -1,0 +1,35 @@
+extends: default
+page:
+  margin: [25mm, 20mm, 20mm, 20mm]
+  numbering:
+    start-at: toc  
+header:
+  height: 25mm
+  background-image: image:{header_image}[]
+footer:
+  recto:
+    right:
+      content: '*{chapter-title}* | {page-number} von {page-count}'
+  verso:
+    left:
+      content: '{page-number} von {page-count} | *{chapter-title}*'
+headings:
+  level1:
+    style: heading1
+    color: #070052
+  level2:
+    style: heading2
+    color: #070052
+  level3:
+    style: heading3
+    color: #070052
+  level4:
+    style: heading4
+    color: #070052
+  level5:
+    style: heading5
+    color: #070052
+  level6:
+    style: heading6
+    color: #070052
+

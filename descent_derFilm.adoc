@@ -1,0 +1,80 @@
+:doctype: book
+:toc: macro
+:icons: font
+:pdf-page-size: a4
+:toc-title: Inhaltsverzeichnis
+:lang: DE
+:hyphens:
+:encoding: UTF-8
+
+
+= Synopsis
+Descent: Der Film ist ein österreichischer Action/Krimi Film in dem es um den Jungen Kriminalbeamten Julian geht, der in eine schwierige Situation gerät, nachdem er an einen Tatort gerufen wird und dort merkt dass sein eigener Vater, mit dem er seit einigen Jahren keinen Kontakt mehr hatte, ermordet wurde. Julian der zuerst nicht weiß, was er tun soll, wird er von seinem Kollegen und Partner Marko unterstützt, der ihm hilft, die Situation zu bewältigen. Zusammen versuchen sie, den Mörder zu finden und Julian muss sich mit seiner Vergangenheit auseinandersetzen, um den Fall zu lösen. Der Film behandelt Themen wie Freundschaft, Familie und die Herausforderungen des Lebens als Kriminalbeamter.
+
+image::CoverCastTeam.pdf[page=1,alt=CoverCastTeam,align=center,width=100%]
+== Besetzung
+=== Hauptcharatere
+[cols="1,2", options="noheader,frame=none,grid=none"]
+|===
+
+| Julian Jüngling
+| Liam Noori(?)
+
+| Marko Ahrens
+| Alessio Romanelli (?)
+
+| Jonathan Hess
+|
+
+|Bernd Hess
+|
+
+|Sabine Hess/Caroline Steves
+|
+
+|Klaus "Klausi" Zaric
+|
+|===
+=== Nebencharaktere
+[cols="1,2", options="noheader,frame=none,grid=none"]
+|===
+
+|Major Nick Nixon
+|
+
+|Oberst Aldin Oric
+|
+
+|Dr. Sascha Brandy
+|
+
+| Dr. Gabriel Schulz
+| Sebastian Stiller
+
+|Gerhard Jüngling
+|
+
+|===
+== Das Team
+[cols="1,2", options="noheader,frame=none,grid=none"]
+|===
+
+|Autoren
+| Sebastian Stiller|| Marcel Laimer
+
+|Idee
+|Sebastian Stiller
+
+|Musik
+|
+
+|Ton
+|
+
+| Ausführender Produzent
+| Sebastian Stiller
+
+|Gerhard Jüngling
+|
+
+|===

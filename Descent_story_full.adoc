@@ -1,0 +1,39 @@
+:doctype: book
+:toc: macro
+:icons: font
+:pdf-page-size: a4
+:toc-title: Inhaltsverzeichnis
+:lang: DE
+:hyphens:
+:encoding: UTF-8
+
+image::Cover.pdf[page=1,alt=Cover,align=center,width=100%]
+toc::[]
+include::descent_derFilm.adoc[]
+
+image::CoverStory.pdf[page=1, alt=Cover_Story, align=center, width=100%]
+== Handlung
+
+include::Kapitel/0_introduction.adoc[]
+
+include::Kapitel/1_der_Tatort.adoc[]
+
+include::Kapitel/2_eine_unerwartete_Begegnung.adoc[]
+
+include::Kapitel/3_ein_freundschaftliches_Treffen.adoc[]
+
+include::Kapitel/4_ehemalige_Kollegen.adoc[]
+
+include::Kapitel/5_bewegte_Vergangenheit.adoc[]
+
+include::Kapitel/6_0_der_Unfall.adoc[]
+
+include::Kapitel/6_1_romanze.adoc[]
+
+include::Kapitel/7_jonathans_befreiung.adoc[]
+
+include::Kapitel/8_Julians_gefangennahme.adoc[]
+
+include::Kapitel/9_Sabine_reveal.adoc[]
+
+include::Kapitel/10_Ende.adoc[]
