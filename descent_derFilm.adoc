@@ -9,49 +9,64 @@
 
 
 = Synopsis
-Descent: Der Film ist ein österreichischer Action/Krimi Film in dem es um den Jungen Kriminalbeamten Julian geht, der in eine schwierige Situation gerät, nachdem er an einen Tatort gerufen wird und dort merkt dass sein eigener Vater, mit dem er seit einigen Jahren keinen Kontakt mehr hatte, ermordet wurde. Julian der zuerst nicht weiß, was er tun soll, wird er von seinem Kollegen und Partner Marko unterstützt, der ihm hilft, die Situation zu bewältigen. Zusammen versuchen sie, den Mörder zu finden und Julian muss sich mit seiner Vergangenheit auseinandersetzen, um den Fall zu lösen. Der Film behandelt Themen wie Freundschaft, Familie und die Herausforderungen des Lebens als Kriminalbeamter.
+
+Descent: Der Film ist ein österreichischer Action/Krimi Film in dem es um den Jungen Kriminalbeamten Julian geht, der in eine schwierige Situation gerät, nachdem er an einen Tatort gerufen wird und dort merkt dass sein eigener Vater, mit dem er seit einigen Jahren keinen Kontakt mehr hatte, ermordet wurde. Julian der zuerst nicht weiß, was er tun soll, wird er von seinem Kollegen und Partner Marko unterstützt, der ihm hilft, die Situation zu bewältigen. Zusammen versuchen sie, den Mörder zu finden und Julian muss sich mit seiner Vergangenheit auseinandersetzen, um den Fall zu lösen. Dabei gerät er zwischen die Fronten einer Kriminellen Organisation und dem Gesetz. Wird er es schaffen seine persönlichen Gefühle und Ängste im Hintergrund halten und seinen Fokus auf die Erfüllung seiner Pflicht zu halten. Der Film behandelt Themen wie Freundschaft, Familie und die Herausforderungen des Lebens als Kriminalbeamter. 
 
 image::CoverCastTeam.pdf[page=1,alt=CoverCastTeam,align=center,width=100%]
 == Besetzung
 === Hauptcharatere
-[cols="1,2", options="noheader,frame=none,grid=none"]
+[cols="1,2,3", options="header"]
 |===
+| Rolle | Schauspieler | Social Media
 
 | Julian Jüngling
-| Liam Noori(?)
+| Liam Noori (?)
+| https://www.instagram.com/liam.noori/[Instagram]
 
 | Marko Ahrens
 | Alessio Romanelli (?)
+| https://www.instagram.com/_a.f.r._/ [Link muss im Nachhinein angepasst werden]
 
 | Jonathan Hess
-|
+| Christopher Schatz(?)
+| https://www.youtube.com/@GamefreakPierre[Youtube]
 
-|Bernd Hess
-|
+| Bernd Hess
+| 
+| 
 
-|Sabine Hess/Caroline Steves
-|
+| Sabine Hess/Caroline Steves
+| 
+| 
 
-|Klaus "Klausi" Zaric
-|
+| Klaus "Klausi" Zaric
+| Mario Neonbraun(?)
+| https://www.instagram.com/neonbrauntv/[Instagram], https://www.twitch.tv/neonbraun[Twitch], https://www.youtube.com/@neonbraunlive[YouTube]
 |===
+
 === Nebencharaktere
-[cols="1,2", options="noheader,frame=none,grid=none"]
+[cols="1,2,3", options="header"]
 |===
+| Rolle | Schauspieler | Social Media
 
 |Major Nick Nixon
-|
+|Officer Nixon(?)
+|https://www.instagram.com/officer.nixon/[Instagram], https://www.youtube.com/@OfficerNixon[Youtube]
 
 |Oberst Aldin Oric
-|
+|Wuzzpoppin(?)
+|https://www.instagram.com/wuzzpoppintv/[Instagram], https://www.twitch.tv/wuzzpoppintv[Twitch]
 
 |Dr. Sascha Brandy
-|
+| BrunzBua(?)
+|https://www.instagram.com/Brunzbua[Instagram] , https://www.twitch.tv/brunzbua[Twitch]
 
 | Dr. Gabriel Schulz
 | Sebastian Stiller
+|https://www.instagram.com/Sebastian.Stiller.2001[Instagram], https://www.Youtube.com/@Bastitech[Youtube]
 
 |Gerhard Jüngling
+|
 |
 
 |===
@@ -66,15 +81,15 @@ image::CoverCastTeam.pdf[page=1,alt=CoverCastTeam,align=center,width=100%]
 |Sebastian Stiller
 
 |Musik
-|
+| Paul Preitler ||Owiwi (Vincent Nussbaumer)
 
 |Ton
-|
+|Paul Winter || 
 
 | Ausführender Produzent
 | Sebastian Stiller
 
-|Gerhard Jüngling
-|
+|Director of Photography
+|Marcel Laimer
 
 |===
